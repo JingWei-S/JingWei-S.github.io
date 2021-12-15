@@ -1,15 +1,16 @@
 ---
 title: "Understanding User Perceptions of Proactive Smart Speakers"
-collection: Journal
+collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ' '
-date: 2021-10-01
-venue: 'Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 5, 4, Article 185 (December 2021), 28 pages'
+date: 2021-12-15
+venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '<b> Jing Wei </b>, Tilman Dingler, Vassilis Kostakos.
+  <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. <b> IMWUT </b>.'
+
 ---
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
+<!-- [[PDF]](https://arxiv.org/pdf/2003.03463.pdf) -->
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+## Abstract
+Voice assistants, such as Amazon’s Alexa and Google Home, increasingly find their way into consumer homes. Their functionality, however, is currently limited to being passive answer machines rather than proactively engaging users in conversations. Speakers’ proactivity would open up a range of important application scenarios, including health services, such as checking in on patient states and triggering medication reminders. It remains unclear how passive speakers should implement proactivity. To better understand user perceptions, we ran a 3-week field study with 13 participants where we modified the off-the-shelf Google Home to become proactive. During the study, our speaker proactively triggered conversations that were essentially Experience Sampling probes allowing us to identify when to engage users. Applying machine-learning, we are able to predict user responsiveness with a 71.6% accuracy and find predictive features. We also identify self-reported factors, such as boredom and mood, that are significantly correlated with users’ perceived availability. Our prototype and findings inform the design of proactive speakers that verbally engage users at opportune moments and contribute to the design of proactive application scenarios and voice-based experience sampling studies.
