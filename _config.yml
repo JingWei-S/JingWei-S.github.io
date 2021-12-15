@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jing Wei / Site Title"
+title                    : "Jing's Homepage"
 title_separator          : "-"
 name                     : &name "Jing Wei"
 description              : &description "A dummy PhD student @ University of Melbourne"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-8522-8607"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#   - scope:
+#       path: ""
+#       type: teaching
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
   # _publications
   - scope:
       path: ""
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#       author_profile: true
+#       share: true
 
 # Sass/SCSS
 sass:
