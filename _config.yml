@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jing's Homepage"
+title                    : "Jing's Homepage.  "
 title_separator          : "-"
 name                     : &name "Jing Wei"
-description              : &description "A dummy PhD student @ University of Melbourne"
+description              : &description "A PhD student @ University of Melbourne"
 url                      : https://Potashh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Potashh/Potashh.github.io"
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-#   - scope:
-#       path: ""
-#       type: teaching
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-#   - scope:
-#       path: ""
-#       type: talks
-#     values:
-#       layout: talk
-#       author_profile: true
-#       share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
