@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 <br>
-<b>[Understanding User Perceptions of Proactive Smart Speakers](https://potashh.github.io/publication/2009-10-01-paper-title-number-1)</b> <br> 
+<b>[Understanding User Perceptions of Proactive Smart Speakers](https://potashh.github.io/publication/IMWUT_Proactive)</b> <br> 
 <b>Jing Wei</b>, Tilman Dingler, Vassilis Kostakos.
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. <b>(IMWUT) 2021</b>.
 
-<b>[Autoregressive Score Matching](https://potashh.github.io/publication/2010-10-01-paper-title-number-2)</b> <br> 
-Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon.
-<i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
+<b>[The Use and Promise of Conversational Agents in Digital Health](https://potashh.github.io/publication/YMIA)</b> <br> 
+Tilman Dingler, Dominika Kwasnicka, <b>Jing Wei</b>, Enying Gong, Brian Oldenburg.
+<i>Yearbook of Medical Informatics</i>. <b>YMIA 2021</b>.
