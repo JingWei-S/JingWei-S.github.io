@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 venue: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
 date: 2021-12-15
-<!-- citation: '<b> Jing Wei </b>, Tilman Dingler, Vassilis Kostakos. -->
-<!--   <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. <b> IMWUT </b>.' -->
+citation: '<b> Jing Wei </b>, Tilman Dingler, Vassilis Kostakos.
+  <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. <b> IMWUT </b>.'
 
 ---
 <!-- [[PDF]](https://arxiv.org/pdf/2003.03463.pdf) -->
