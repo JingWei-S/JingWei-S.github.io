@@ -1,7 +1,7 @@
 ---
 title: "What Wrist Temperature Tells Us When We Sleep Late: A New Perspective of Sleep Health"
 collection: publications
-permalink: /publication/IMWUT_Proactive
+permalink: /publication/UIC
 venue: "2018 IEEE Ubiquitous Intelligence & Computing"
 date: 2021-12-15
 citation: '<b> Jing Wei </b>, Jin Zhang, Jennifer Boger.
