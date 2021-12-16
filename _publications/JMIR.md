@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/JMIR.md
 date: 2021-06-01
 venue: 'JMIR mHealth and uHealth'
-<!-- paperurl: 'http://academicpages.github.io/files/paper3.pdf' -->
 citation: '<b> Jing Wei </b>, Jennifer Boger <i>JMIR mHealth and uHealth</i>.'
 ---
 This paper is produced based on my Master's thesis.
