@@ -11,7 +11,7 @@ author_profile: true
 
 <b>[The Use and Promise of Conversational Agents in Digital Health](https://potashh.github.io/publication/YMIA)</b> <br> 
 Tilman Dingler, Dominika Kwasnicka, <b>Jing Wei</b>, Enying Gong, Brian Oldenburg.
-<i>Yearbook of Medical Informatics</i>. <b>YMIA</b>.
+<i>Yearbook of Medical Informatics</i>. 
 
 <b>[Sleep Detection for Younger Adults, Healthy Older Adults, and Older Adults Living With Dementia Using Wrist Temperature and Actigraphy: Prototype Testing and Case Study Analysis](https://potashh.github.io/publication/JMIR) </b> <br>
 <b>Jing Wei</b>, Jennifer Boger.
