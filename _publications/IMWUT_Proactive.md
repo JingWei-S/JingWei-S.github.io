@@ -2,7 +2,7 @@
 title: "Understanding User Perceptions of Proactive Smart Speakers"
 collection: publications
 permalink: /publication/IMWUT_Proactive
-venue: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), vol. 5, no. 4, article 185. \Ranking: A\*]"
+venue: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), vol. 5, no. 4, article 185. [Ranking: A\*]"
 date: 2021-12-15
 citation: '<b> Jing Wei </b>, Tilman Dingler, Vassilis Kostakos.
   <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</i>. <b> IMWUT </b>.'
