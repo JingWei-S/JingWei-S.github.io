@@ -3,7 +3,7 @@ title: "Comparative Analysis of Gait Speed Estimation Using Wideband and Narrowb
 collection: publications
 permalink: /publication/JHIR
 venue: "Journal of Healthcare Informatics Research"
-date: 2021-12-15
+date: 2020-04-16
 citation: 'PP Morita, AS Rocha, G Shaker, D Lee, <b>J Wei</b>, B Fong, A Thatte, A Karimi, L Xu, A Ma, A Wong, J Boger.
   <i>Journal of Healthcare Informatics Research</i>.'
 
