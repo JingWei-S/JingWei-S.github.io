@@ -14,3 +14,6 @@ I obtained my Master of Applied Science (MASc) degree from University of Waterlo
 
 You can find my up-to-date CV [here](https://potashh.github.io/files/Resume_JingWei.pdf).
 
+### News
+One paper accepted at CHI 2022!
+
