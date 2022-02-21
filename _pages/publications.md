@@ -8,7 +8,7 @@ author_profile: true
 <br>
 [C4] What Could Possibly Go Wrong When Interacting with Proactive Smart Speakers? A Case Study Using an ESM Application<br>
 <b>Jing Wei</b>, Benjamin Tag, Johanne R Trippas, Tilman Dingler, Vassilis Kostakos.
-<i>Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (to appear)</i> \[Acceptance rate: 24.7%\] <b>[Ranking: A*]</n> 
+<i>Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (to appear)</i> [Acceptance rate: 24.7%] <b>[Ranking: A*]</b> 
 
 ### 2021
 
