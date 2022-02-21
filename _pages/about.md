@@ -12,3 +12,5 @@ I'm currently a 3rd year PhD student at [Human-Computer Interaction Group](https
 
 I obtained my Master of Applied Science (MASc) degree from University of Waterloo in 2019 and my bachelor degree from Southern University of Science and Technology (China) in 2017. 
 
+You can find my up-to-date CV [here](https://potashh.github.io/files/Resume_Jing Wei.pdf).
+
