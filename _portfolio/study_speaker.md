@@ -1,6 +1,6 @@
 ---
 title: "Proactive Smart Speaker Study"
-excerpt: "<br/><img src='/images/speaker_prototype.jpg' width='200'>"
+excerpt: "<br/><img src='/images/speaker_prototype.jpg' width='500'>"
 collection: research
 ---
 For this project, please check out the following publications:
