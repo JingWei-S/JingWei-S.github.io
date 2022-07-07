@@ -1,6 +1,6 @@
 ---
 title: "Sleep Monitoring with Accelerometers and Wrist Temperature"
-excerpt: "<br/><img src='/images/wrist.png' width='200'>"
+excerpt: "<br/><img src='/images/wrist.png' width='500'>"
 collection: research
 ---
 For this project, check out the following publications:
