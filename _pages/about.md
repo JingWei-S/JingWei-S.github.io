@@ -12,7 +12,7 @@ I'm currently a 3rd year PhD student at [Human-Computer Interaction Group](https
 
 In the past, I have also done research regarding [ultrasonic sensing](https://www.hindawi.com/journals/cmmm/2018/3675974/) and [sleep monitoring with wearable devices](https://mhealth.jmir.org/2021/6/e26462/). 
 
-During my PhD, my research revolves around Voice User Interfaces (VUIs) and smart speakers. As an introvert, my work is making smart speakers talk to me [proactively](https://jingwei-s.github.io/images/speaker_prototype.jpg). More recently, I'm interested in Large Language Models (LLMs), such as GPT-3. I sometimes do [random sketching](https://jingwei-s.github.io/images/godzilla_fight_trump.jpg) with text-to-image generation models too.
+During my PhD, my research revolves around Voice User Interfaces (VUIs) and smart speakers. As an introvert, my work is making smart speakers talk to me [proactively](https://jingwei-s.github.io/images/speaker_prototype.jpg). More recently, I'm interested in Large Language Models (LLMs), such as GPT-3. I sometimes do [random sketching](https://jingwei-s.github.io/images/godzilla_fight_trump.png) with text-to-image generation models too.
 
  
 
