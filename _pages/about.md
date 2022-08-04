@@ -20,6 +20,6 @@ You can find my up-to-date CV [here](https://jingwei-s.github.io/files/Resume_Ji
 
 ### News
 - One paper accepted at CSCW 2022! I'm super excited :)
-- Finished my a HCI intern at Naver AI Lab with [Young-Ho Kim](http://younghokim.net/).
+- Finished my HCI intern at Naver AI Lab with [Young-Ho Kim](http://younghokim.net/).
 - One paper accepted at CHI 2022!
 
